@@ -31,6 +31,17 @@ An end-to-end Retail Sales Analysis project focused on understanding sales perfo
 2. Product & Customer Analysis — Product demand, margins, and customer profitability
 3. Shipping & Operations — Delivery durations, order volumes, and shipping-mode profitability
 
+### Dashboard Previews
+
+#### Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+#### Product & Customer Analysis
+![Product & Customer Analysis](Product_Customer_Analysis.png)
+
+#### Shipping & Operations
+![Shipping & Operations](Shipping_Operations.png)
+
 ## Limitations
 The dataset contains no cost column and no negative profit values. Therefore, reliable loss analysis and shipping cost-efficiency analysis could not be performed.
 
